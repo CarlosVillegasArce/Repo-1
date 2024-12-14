@@ -1,8 +1,9 @@
 nombre = "Carlitos"
 
-apellido = "Dalto"
+apellido = "Villegas"
 
-saludo="Hola " + nombre + " " + apellido)
+saludo="Hola " + nombre + " " + apellido
+
 print("Hola " + nombre + " " + apellido+" " + "Como estas?")
 
 print(saludo)
